@@ -1,4 +1,4 @@
-## Hi there, I'm James Sipowicz III 👋
+## Hi there, I'm James! 👋
 
 ## About Me
 - 🔭 I'm currently working on projects relating to Data Analytics, Data Engineering, Big Data Development and Software Engineering
